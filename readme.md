@@ -1,6 +1,6 @@
 # Service Laravel WebSockets 🛰 Chat Example
 
-Modified from [qirolab/Laravel-WebSockets-Chat-Example](https://github.com/qirolab/Laravel-WebSockets-Chat-Example
+Modified from [qirolab/Laravel-WebSockets-Chat-Example](https://github.com/qirolab/Laravel-WebSockets-Chat-Example)
 
 ## Usage
 
